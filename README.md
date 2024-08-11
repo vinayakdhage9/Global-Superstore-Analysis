@@ -33,28 +33,19 @@ b.	Explore correlations between customer regions (from the people table) and ret
 Other Questions
 
 1.	What are the regions with the highest and lowest return rates?
-a.	Identify the regions where customers are more likely to return orders and those where returns are less common.
 
 2.	Are there specific product categories or sub-categories associated with higher return rates?
-a.	Explore whether certain types of products (e.g., technology, furniture) have higher return rates compared to others.
 
 3.	Is there a correlation between shipping mode and return rates?
-a.	Analyze whether the shipping mode (e.g., standard class, first class) affects return rates across different regions.
 
 4.	How do return rates vary over time?
-a.	Investigate whether return rates exhibit seasonal patterns or trends over the years based on order and return dates.
 
 5.	Are there any correlations between customer segments (e.g., consumer, corporate) and return behavior?
-a.	Examine whether customer segments play a role in return rates and whether certain segments are more prone to returns.
 
 6.	Do specific cities or states within regions show higher return rates?
-a.	Drill down into geographical details to understand if return rates vary at a more granular level (e.g., by city or state).
 
 7.	What is the impact of discounts on return rates?
-a.	Analyze whether offering discounts influences return behavior and whether discounted orders are more likely to be returned.
 
 8.	How do return rates differ between new customers and repeat customers?
-a.	Compare return rates among customers who are making their first purchase versus those who have made multiple purchases.
 
 9.	Is there a relationship between shipping cost and return rates?
-a.	Investigate whether higher shipping costs are associated with increased return rates for orders.
